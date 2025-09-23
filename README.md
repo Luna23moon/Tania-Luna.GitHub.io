@@ -1,2 +1,2 @@
 # Tania-Luna.GitHub.io
-puclico
+publico
